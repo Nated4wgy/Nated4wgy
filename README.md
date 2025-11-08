@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nated4wgy
-- 👀 I’m interested in C++
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in C++ and Python
+- 🌱 I’m currently learning C++  and Python
 - 💞️ I’m looking to collaborate on anything to get me coding.
 - 📫 How to reach me nate.wilcox@icloud.com
 
